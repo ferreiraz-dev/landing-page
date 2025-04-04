@@ -4,7 +4,7 @@
   <img alt="Landing Page" src="./imagens/Landing Page.png" width="100%">
 </p>
 
-<p align="center"> Seção de Disclaimer
+<p align="center"> Seção de Disclaimer e Passo a Passo
   <img alt="Landing Page" src="./imagens/disclaimer.png" width="100%">
 </p>
 
